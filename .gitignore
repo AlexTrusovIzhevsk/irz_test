@@ -1,0 +1,17 @@
+/packages/*
+/.vs/*
+/TestResults/*
+/IRZ_Task1_OopStyle_Classes/bin/*
+/IRZ_Task1_OopStyle_Classes/obj/*
+
+/IRZ_Task1_OopStyle_Console/bin/*
+/IRZ_Task1_OopStyle_Console/obj/*
+
+/IRZ_Task1_OopStyle_UnitTest/bin/*
+/IRZ_Task1_OopStyle_UnitTest/obj/*
+
+/IRZ_Task2_OnTheKneeStyle_Classes/bin/*
+/IRZ_Task2_OnTheKneeStyle_Classes/obj/*
+
+/IRZ_Task2_OnTheKneeStyle_Form/bin/*
+/IRZ_Task2_OnTheKneeStyle_Form/obj/*

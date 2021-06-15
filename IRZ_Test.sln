@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRZ_Task1_OopStyle_Console", "IRZ_Task1_OopStyle_Console\IRZ_Task1_OopStyle_Console.csproj", "{0754995C-CBC0-4603-B5AF-2A5D4E3F43F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRZ_Task1_OopStyle_UnitTest", "IRZ_Task1_OopStyle_UnitTest\IRZ_Task1_OopStyle_UnitTest.csproj", "{39910F7F-3968-4D78-A1EC-AA7732D002BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRZ_Task1_OopStyle_Classes", "IRZ_Task1_OopStyle_Classes\IRZ_Task1_OopStyle_Classes.csproj", "{B23AD1A7-7F3B-4ED7-8EA7-8EEEA0DC0D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRZ_Task2_OnTheKneeStyle_Classes", "IRZ_Task2_OnTheKneeStyle_Classes\IRZ_Task2_OnTheKneeStyle_Classes.csproj", "{3EA955B3-4C66-410A-A8C2-3FA9C809CD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRZ_Task2_OnTheKneeStyle_Form", "IRZ_Task2_OnTheKneeStyle_Form\IRZ_Task2_OnTheKneeStyle_Form.csproj", "{523E160D-2D9D-4CAE-9CC2-8A3AEC2311E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0754995C-CBC0-4603-B5AF-2A5D4E3F43F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0754995C-CBC0-4603-B5AF-2A5D4E3F43F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0754995C-CBC0-4603-B5AF-2A5D4E3F43F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0754995C-CBC0-4603-B5AF-2A5D4E3F43F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39910F7F-3968-4D78-A1EC-AA7732D002BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39910F7F-3968-4D78-A1EC-AA7732D002BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39910F7F-3968-4D78-A1EC-AA7732D002BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39910F7F-3968-4D78-A1EC-AA7732D002BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23AD1A7-7F3B-4ED7-8EA7-8EEEA0DC0D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23AD1A7-7F3B-4ED7-8EA7-8EEEA0DC0D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23AD1A7-7F3B-4ED7-8EA7-8EEEA0DC0D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23AD1A7-7F3B-4ED7-8EA7-8EEEA0DC0D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA955B3-4C66-410A-A8C2-3FA9C809CD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA955B3-4C66-410A-A8C2-3FA9C809CD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA955B3-4C66-410A-A8C2-3FA9C809CD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA955B3-4C66-410A-A8C2-3FA9C809CD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523E160D-2D9D-4CAE-9CC2-8A3AEC2311E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523E160D-2D9D-4CAE-9CC2-8A3AEC2311E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523E160D-2D9D-4CAE-9CC2-8A3AEC2311E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523E160D-2D9D-4CAE-9CC2-8A3AEC2311E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F1D6BFF-7E43-4EDB-8821-D03245972ECB}
+	EndGlobalSection
+EndGlobal

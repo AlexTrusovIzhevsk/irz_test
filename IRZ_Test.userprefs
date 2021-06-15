@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="IRZ_Task1_OopStyle_Console/IRZ_Task1_OopStyle_Console.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IRZ_Task1_OopStyle_UnitTest/UnitTest.cs">
+    <Files>
+      <File FileName="IRZ_Task1_OopStyle_UnitTest/UnitTest.cs" Line="24" Column="61" />
+      <File FileName="IRZ_Task1_OopStyle_UnitTest/TestPasswordReader.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
